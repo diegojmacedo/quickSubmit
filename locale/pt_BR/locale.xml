@@ -15,7 +15,14 @@
 <locale name="pt_BR" full_name="Português (Brasil)">
 	<message key="plugins.importexport.quickSubmit.displayName">Submissão rápida</message>
 	<message key="plugins.importexport.quickSubmit.description">Plugin de submissão em 1 passo</message>
+	<message key="plugins.importexport.quickSubmit.descriptionLong">Este plugin permite que você adicione rapidamente submissões completas ao estágio de produção ou diretamente a uma edição.</message>
 	<message key="plugins.importexport.quickSubmit.success">Artigo incluído</message>
 	<message key="plugins.importexport.quickSubmit.successDescription">Artigo criado com sucesso.</message>
 	<message key="plugins.importexport.quickSubmit.successReturn">Voltar à submissão rápida.</message>
+	<message key="plugins.importexport.quickSubmit.cancel">Submissão cancelada</message>
+	<message key="plugins.importexport.quickSubmit.cancelDescription">A submissão foi cancelada.</message>
+	<message key="plugins.importexport.quickSubmit.published">Publicado</message>
+	<message key="plugins.importexport.quickSubmit.unpublished">Não publicado</message>
+	<message key="plugins.importexport.quickSubmit.goToSubmission">Ir para submissão</message>
+	<message key="plugins.importexport.quickSubmit.selectIssue">Uma edição deve ser selecionada.</message>
 </locale>
